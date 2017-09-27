@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

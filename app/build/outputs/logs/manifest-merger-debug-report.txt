@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\促后\.android\build-cache\b38fe77a1913ce4fd196471aaf44fc05f4881525\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\促后\.android\build-cache\e825c74b049037b75ed33c3ebfe3141598aa5990\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\促后\.android\build-cache\6669abc65a5d7ea39a50987688c4d6606bbb6da4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\b85f2050b020e0cba393cf0b27d516e247d299f0\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\1362853f01a5d332f51f640698e413386356ab36\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\促后\.android\build-cache\71e094dd7bb0afc656a4c3f28c7623e3fa884f3c\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\促后\.android\build-cache\16b0bf7d300b0cdfe3557d2317bf67f5f504327e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\促后\.android\build-cache\cf598432173900934afa18a7fa20041a9190a6a8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\促后\.android\build-cache\01de8a34a5a79391f1f49c6f720c82bca9427e51\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\促后\.android\build-cache\44a41e26797ec0ebebed4ef7743f036aab2fc592\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\促后\.android\build-cache\883e42ea7a3deb7521cf582c1b0804086f1f9e90\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\促后\.android\build-cache\7d4f4f3afe6164dff17863be1878abcb515e07c7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\促后\.android\build-cache\3108c5ef9310b143246dc3d06a8397c7bc5f0ae1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\促后\.android\build-cache\310b299279db8838ad53c2cfeab5d1824108b14d\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\促后\.android\build-cache\d108efbc9ff60278993d947538b252e3dd737a92\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\促后\.android\build-cache\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\促后\.android\build-cache\d6ab9a510e8604ffa2d34f585ea5ba9a028d9e0a\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.mychatapp.MainActivity
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.mychatapp.ChatActivity
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.mychatapp.TabActivity
+ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:20:9-23:20
+	android:name
+		ADDED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml:21:13-40
+uses-sdk
+INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\促后\.android\build-cache\b38fe77a1913ce4fd196471aaf44fc05f4881525\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\促后\.android\build-cache\e825c74b049037b75ed33c3ebfe3141598aa5990\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\促后\.android\build-cache\09d091e811b674d1dcabb81eed367708d6ae9d09\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\促后\.android\build-cache\fbe5118ea691b9869407518acf00d7de4ac409ef\output\AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\促后\.android\build-cache\6669abc65a5d7ea39a50987688c4d6606bbb6da4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\b85f2050b020e0cba393cf0b27d516e247d299f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\1362853f01a5d332f51f640698e413386356ab36\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\促后\.android\build-cache\71e094dd7bb0afc656a4c3f28c7623e3fa884f3c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\促后\.android\build-cache\16b0bf7d300b0cdfe3557d2317bf67f5f504327e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\促后\.android\build-cache\cf598432173900934afa18a7fa20041a9190a6a8\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\促后\.android\build-cache\01de8a34a5a79391f1f49c6f720c82bca9427e51\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\促后\.android\build-cache\44a41e26797ec0ebebed4ef7743f036aab2fc592\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\促后\.android\build-cache\883e42ea7a3deb7521cf582c1b0804086f1f9e90\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\促后\.android\build-cache\7d4f4f3afe6164dff17863be1878abcb515e07c7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\促后\.android\build-cache\3108c5ef9310b143246dc3d06a8397c7bc5f0ae1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\促后\.android\build-cache\310b299279db8838ad53c2cfeab5d1824108b14d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\促后\.android\build-cache\d108efbc9ff60278993d947538b252e3dd737a92\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\促后\.android\build-cache\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\促后\.android\build-cache\d6ab9a510e8604ffa2d34f585ea5ba9a028d9e0a\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MyChatApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\促后\.android\build-cache\17236db4ec3eaa3e681b74c00356cf0094305aa7\output\AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\促后\.android\build-cache\6669abc65a5d7ea39a50987688c4d6606bbb6da4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\b85f2050b020e0cba393cf0b27d516e247d299f0\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\促后\.android\build-cache\1362853f01a5d332f51f640698e413386356ab36\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\促后\.android\build-cache\71e094dd7bb0afc656a4c3f28c7623e3fa884f3c\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\促后\.android\build-cache\16b0bf7d300b0cdfe3557d2317bf67f5f504327e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\促后\.android\build-cache\883e42ea7a3deb7521cf582c1b0804086f1f9e90\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\促后\.android\build-cache\7d4f4f3afe6164dff17863be1878abcb515e07c7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\促后\.android\build-cache\3108c5ef9310b143246dc3d06a8397c7bc5f0ae1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\促后\.android\build-cache\310b299279db8838ad53c2cfeab5d1824108b14d\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\促后\.android\build-cache\d108efbc9ff60278993d947538b252e3dd737a92\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\促后\.android\build-cache\452c9e3716af8c0d94f93724a25a3e6136e9a1d5\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\促后\.android\build-cache\01a52473881e0f8012db3c14e2562c5d98ae7eba\output\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\促后\.android\build-cache\a2266a2690536100db4a0d84b5186e6a323d54c5\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\促后\.android\build-cache\5bc63301d0bfdb5ef468a1f3ff9a00e471541991\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\促后\.android\build-cache\0b330410bc2d8b5bb016e7f5cbf14f8ff4800e00\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\促后\.android\build-cache\4cdb632f40c98f821b6ac3aa6307f17ee8581aa0\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\促后\.android\build-cache\44a41e26797ec0ebebed4ef7743f036aab2fc592\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\促后\.android\build-cache\44a41e26797ec0ebebed4ef7743f036aab2fc592\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\促后\.android\build-cache\44a41e26797ec0ebebed4ef7743f036aab2fc592\output\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\促后\.android\build-cache\d6ab9a510e8604ffa2d34f585ea5ba9a028d9e0a\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\促后\.android\build-cache\d6ab9a510e8604ffa2d34f585ea5ba9a028d9e0a\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\促后\.android\build-cache\d6ab9a510e8604ffa2d34f585ea5ba9a028d9e0a\output\AndroidManifest.xml:26:13-58

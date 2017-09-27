@@ -1,0 +1,7 @@
+#Fri Sep 22 17:46:51 KST 2017
+base.0=D\:\\Android\\MyChatApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_61b5cc0763affa0724bb43c50758b1f478bdf787
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\MyChatApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aa73e9217a6a25d1ef53576885779300d75af978\\classes.dex
+base.1=D\:\\Android\\MyChatApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_aa73e9217a6a25d1ef53576885779300d75af978
+file.0=D\:\\Android\\MyChatApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_61b5cc0763affa0724bb43c50758b1f478bdf787\\classes.dex

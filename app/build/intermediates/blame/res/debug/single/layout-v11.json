@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\다빈\\.android\\build-cache\\c158fdcdbf875057ba5eb4e6121a2f78c5fc4cfd\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
